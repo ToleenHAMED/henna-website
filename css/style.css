@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     background-color: red; /* Baby pink */
     font-family: 'Arial', sans-serif;
@@ -42,3 +43,49 @@ body {
     color: black;
 }
 
+=======
+body {
+    background-color: red; /* Baby pink */
+    font-family: 'Arial', sans-serif;
+}
+
+.logo {
+    width: 500px;
+    height: 180px;
+    margin-bottom: 20px;
+}
+
+.location {
+    font-size: 18px;
+    color: black;
+    font-weight: bold;
+}
+
+.social-links a {
+    display: block; /* Make links appear under each other */
+    margin: 10px 0;
+    text-decoration: none;
+    font-weight: bold;
+    color: black; /* Social media links text black */
+    font-size: 18px;
+}
+
+.social-links a:hover {
+    text-decoration: underline;
+}
+
+.buttons .custom-btn {
+    background-color: white; /* White button */
+    border: 2px solid #555; /* Light border */
+    color: #555; /* Text color */
+    width: 220px;
+    font-size: 18px;
+    transition: 0.3s;
+}
+
+.buttons .custom-btn:hover {
+    background-color: #ffe5ec; /* Light pink hover effect */
+    color: black;
+}
+
+>>>>>>> 7f2fffc62b513b42f09d551f2302ea7ef5addabb
